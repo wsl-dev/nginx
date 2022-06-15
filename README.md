@@ -1,3 +1,3 @@
 # Nginx
 
-https://heroku.com/deploy?template=https://github.com/k8dev/nginx
+https://heroku.com/deploy?template=https://github.com/wsl-dev/nginx
